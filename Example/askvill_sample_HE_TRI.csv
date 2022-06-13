@@ -1,0 +1,19 @@
+﻿Group,ID,H&E Airspace Area / Interstitium Area (ratio),H&E Total Cells / Parenchyma Area (count/mm²),H&E Airspaces / Parenchyma Area (count/mm²),H&E AVG Area of Airspaces in the Parenchyma / Parenchyma Area (ratio),H&E AVG Diameter of Airspaces in the Parenchyma / Parenchyma Area (1/µm),H&E AVG Perimeter of Airspaces in the Parenchyma / Parenchyma Area (1/µm),TRI Positive Area / Parenchyma Area (%)
+CTRL,C03-R02,1.46,2716,151,1030,12,71,0.163
+CTRL,C04,2.34,1718,21,16104,60,375,0.078
+CTRL,C05,1.92,2003,58,4153,24,193,0.071
+IPF,D06,0.3,4052,76,344,8,60,0.159
+IPF,D07,0.1,5646,15,510,7,71,0.168
+IPF,D08,1.19,3859,58,2341,16,115,0.08
+IPF,D16,0.22,5901,33,1395,17,145,0.272
+IPF,D17,0.38,2590,131,580,10,71,0.315
+IPF,D20,0.25,3527,84,462,10,66,0.298
+IPF,D23,0.85,3783,33,3207,17,113,0.164
+IPF,D27,0.16,6067,19,656,8,52,0.295
+IPF,D28,0.34,3232,124,772,16,133,0.325
+IPF,D34,0.72,3547,34,2333,14,90,0.24
+IPF,D37,0.06,4999,9,538,12,80,0.362
+IPF,D40,0.2,4531,54,581,10,74,0.294
+IPF,D45,0.03,3686,5,244,6,39,0.499
+IPF,D56,0.22,4412,39,734,10,68,0.208
+IPF,D62,0.22,2437,80,353,9,63,0.318
